@@ -14,3 +14,5 @@ simple interest = p*t*r
 _© 2022 XYZ, Inc._
 
 Fixed a small typo.
+
+Second fix applied.
