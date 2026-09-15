@@ -1,4 +1,6 @@
-  bug-fix-typo        05cc0d3 Fix typo in README
-* main                d81c9a9 Add bug-fix-revert output
-  remotes/origin/HEAD -> origin/main
-  remotes/origin/main d81c9a9 Add bug-fix-revert output
+  bug-fix-revert                c5404a6 Update github-branches with bug-fix-revert branch
+  bug-fix-typo                  05cc0d3 Fix typo in README
+* main                          94d05a0 Add github-branches output
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 94d05a0 Add github-branches output
+  remotes/origin/main           94d05a0 Add github-branches output
