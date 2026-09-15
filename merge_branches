@@ -1,6 +1,10 @@
-Switched to branch 'main'
+$ git checkout main
+Already on 'main'
+M	merge_branches
 Your branch is up to date with 'origin/main'.
-Updating ad95b0a..05cc0d3
+
+$ git merge bug-fix-typo-2
+Updating c174934..080cf81
 Fast-forward
- README.md | 13 +++++++------
- 1 file changed, 7 insertions(+), 6 deletions(-)
+ README.md | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
